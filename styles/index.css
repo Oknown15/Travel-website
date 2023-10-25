@@ -406,4 +406,37 @@ body {
         border-radius: 30px;
     }
     
+    #carouselExampleSlidesOnly {
+        margin-top: 25px;
+    }
+
+    .firstText {
+        padding-top: 80px !important;
+    }
+ 
+}
+
+@media screen and (min-width: 360px) {
+
+    #Text1 {
+        padding-bottom: 60px;
+        padding-left: 50px;
+    }
+
+    #more {
+        margin-left: 50px;
+    }
+
+    #carouselExampleSlidesOnly {
+        margin-top: 40px;
+    }
+
+    .firstText {
+        padding-top: 90px !important;
+    }
+ 
+
+    .nextImg21 {
+        width: 282px !important;
+    }
 }
